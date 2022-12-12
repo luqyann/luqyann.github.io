@@ -1,1 +1,1 @@
-luqyann.github.io/remembrall
+https://luqyann.github.io/remembrall
