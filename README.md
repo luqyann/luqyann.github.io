@@ -1,2 +1,2 @@
 - [pang](https://luqyann.github.io/pang)
-- [snake](https://luqyann.github.io/snake)
+- [snake](https://luqyann.github.io/snaky)
